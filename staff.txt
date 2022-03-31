@@ -1,5 +1,3 @@
-aaishi
-bfa
 cchankla
 idark
 lbob
@@ -8,4 +6,3 @@ mjakson
 nel_kelb
 npere
 s3000
-tvoldy
